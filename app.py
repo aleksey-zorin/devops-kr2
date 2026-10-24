@@ -1,3 +1,4 @@
+# KR2: Зорин
 import os
 import socket
 
